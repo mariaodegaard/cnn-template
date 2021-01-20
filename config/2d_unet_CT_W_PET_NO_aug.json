@@ -31,11 +31,11 @@
                     "class_name": "ImageNormalizerPreprocessor",
                     "config": {
                         "vmin": [
-                            -200,
+                            -100,
                             0
                         ],
                         "vmax": [
-                            200,
+                            100,
                             25
                         ]
                     }
