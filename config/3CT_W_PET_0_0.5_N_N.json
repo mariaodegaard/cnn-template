@@ -49,10 +49,10 @@
                         0.5,
                         1.5       
                     ],
-                    "shift_range": [
-                        None
-                    ],
-                    "flip_axis": None
+                    "shift_range": 
+                        null
+                    ,
+                    "flip_axis": null
                     
                 }
             }
