@@ -47,7 +47,7 @@
                     "rotation_range": 60,
                     "zoom_range": [0.5, 1.5],
                     "shift_range": 
-                       [10, 10]
+                       null
                     ,
                     "flip_axis": null
                     
